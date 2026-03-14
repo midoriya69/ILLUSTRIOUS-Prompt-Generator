@@ -1,3 +1,2 @@
 # SDXL-Prompt-Generator
-SDXL Prompt Generator
-Test1
+SDXL Prompt Generator test
